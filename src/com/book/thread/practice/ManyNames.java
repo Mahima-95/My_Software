@@ -1,4 +1,4 @@
-package com.book.practice;
+package com.book.thread.practice;
 
 public class ManyNames {
 	public static void main(String[] args) {

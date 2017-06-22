@@ -1,4 +1,4 @@
-package com.book.practice;
+package com.book.thread.practice;
 
 public class CreateSleepThread implements Runnable {
 
