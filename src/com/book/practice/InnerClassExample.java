@@ -4,7 +4,7 @@ public class InnerClassExample {
 
 	private int i=0;
 	
-	class InnerClass{
+	 class InnerClass{
 		
 		public void test(){
 			System.out.println("Outer i is " + i);
