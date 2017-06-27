@@ -32,6 +32,7 @@ public class NameListWithoutSyncListMethod {
 		t2.start();
 	}
 }
+
 /*
  * Now the entire removeFirst() method is synchronized , and once one thread
  * starts it and calls names.size() , there's no way the other thread can cut in
