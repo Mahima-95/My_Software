@@ -18,4 +18,15 @@ public class ThreadWithSleep {
 is the best way to help all threads get a chance to run!
 Remember that  sleep() is a static method, so don't be fooled into thinking that
 one thread can put another thread to sleep.
- */
+ */ 
+
+
+
+/*yes i meet with khalid and take knowledge about the framework development work and i don't feel enough development work there so i am not interested 
+if any java related work there then please let me know*/
+
+/*Hi Sir,
+
+I am willing to work on this opportunity provided if there will good project on java then we will moved to my major java project only development.
+
+*/
